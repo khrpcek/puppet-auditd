@@ -1,0 +1,14 @@
+{
+  "name": "uv-auditd",
+  "version": "0.1.0",
+  "author": "Kevin Hrpcek",
+  "summary": "Manages default auditd",
+  "license": "Apache 2.0",
+  "source": "sxuvgit1",
+  "issues_url": "Kevin",
+  "project_page": "Kevin",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
